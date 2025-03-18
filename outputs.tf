@@ -30,6 +30,10 @@ output "storage_account_primary_access_key" {
   )
 }
 
+output "storage_account_primary_blob_endpoint" {
+  value = try(azurerm_storage_account.this.*.primary_blob_endpoint)
+}
+
 ## HPC CACHE ##
 
 output "hpc_cache_id" {

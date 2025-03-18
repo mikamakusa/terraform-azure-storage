@@ -145,6 +145,7 @@
 | <a name="output_storage_account_name"></a> [storage\_account\_name](#output\_storage\_account\_name) | n/a |
 | <a name="output_storage_account_primary_access_key"></a> [storage\_account\_primary\_access\_key](#output\_storage\_account\_primary\_access\_key) | n/a |
 | <a name="output_storage_account_primary_blob_connection_string"></a> [storage\_account\_primary\_blob\_connection\_string](#output\_storage\_account\_primary\_blob\_connection\_string) | n/a |
+| <a name="output_storage_account_primary_blob_endpoint"></a> [storage\_account\_primary\_blob\_endpoint](#output\_storage\_account\_primary\_blob\_endpoint) | n/a |
 | <a name="output_storage_account_primary_connection_string"></a> [storage\_account\_primary\_connection\_string](#output\_storage\_account\_primary\_connection\_string) | n/a |
 | <a name="output_sync_cloud_endpoint_id"></a> [sync\_cloud\_endpoint\_id](#output\_sync\_cloud\_endpoint\_id) | n/a |
 | <a name="output_sync_cloud_endpoint_name"></a> [sync\_cloud\_endpoint\_name](#output\_sync\_cloud\_endpoint\_name) | n/a |
